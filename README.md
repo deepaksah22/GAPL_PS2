@@ -1,7 +1,7 @@
 # 🌌 Google Learning Nexus
-**The Future of Agentic AI Learning | Hackathon Submission**
+The Future of Agentic AI Learning | 
 
-Google Learning Nexus is a production-ready, AI-driven educational platform designed to transform how users master complex topics. It leverages a powerful 3-pane neural workspace to provide a real-time, context-aware, and highly interactive learning experience.
+Google Learning Nexus is a AI-driven educational platform designed to transform how users master complex topics. It leverages a powerful 3-pane neural workspace to provide a real-time, context-aware, and highly interactive learning experience.
 
 ![Workspace Snapshot](./screenshots/workspace.png)
 ![YouTube & Wikipedia Integration](./screenshots/youtube_integration.png)
